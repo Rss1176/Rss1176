@@ -1,39 +1,25 @@
-<h1 align="left">Hello!</h1>
+<h2 data-importer="text" align="left">Overview</h2>
 
 ###
 
-<p align="left">My name is Ross! I'm from Glasgow, Scotland.</p>
+<p data-importer="text" align="left">I translate business objectives into technical solutions - backed by a background that spans architecture, software development, and years of client-facing technical experience. That dual background gives me a unique perspective on client conversations, connecting business intent with technical reality to shape what's required into what actually gets built.<br><br>I communicate complex technical detail clearly to both technical and business stakeholders, and I enjoy the cross-organisational side of the work - balancing trade-offs and competing priorities across teams. My current focus is on workplace transformation, including AI enablement and implementation into live systems, with a strong emphasis on safe, ethical, and efficient use of AI. I'm also a STEM Ambassador, mentoring and helping others develop is something I actively invest in.<br><br>Outside my day job, I take on freelance web development and graphic design projects, and build my own software.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 data-importer="text" align="left">Current Workflow</h2>
 
 ###
 
-<p align="left">I'm currently undertaking my Masters of Science (MSc) in Software Development at the University of Strathclyde, in Glasgow.<br>I've always loved designing and creating, and after moving away from my profession in Architecture I continued my passion in tech.<br>I aim to graduate in September 2025, and look to continue my professional career in Software Development or Engineering post graduating.<br><br>If you want to get in touch, please use the links to the side 🙂</p>
-
-###
-
-<h2 align="left">I develop with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
 ###
