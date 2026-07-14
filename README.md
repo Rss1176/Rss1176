@@ -21,9 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg](https://img.logo.dev/obsidian.md?token=pk_MFSYLrrJTUCC8ApzzCUx1g&format=webp&retina=true)" height="40" alt="obsidian logo"  />
-  <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg](https://img.logo.dev/obsidian.md?token=pk_MFSYLrrJTUCC8ApzzCUx1g&format=webp&retina=true)" height="40" alt="obsidian logo"  />
+  <img src="https://img.logo.dev/obsidian.md?token=pk_MFSYLrrJTUCC8ApzzCUx1g&format=webp&retina=true" height="40" alt="obsidian logo"  />
 </div>
 
 ###
